@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <h1>
-  Hi guys. I am Andres Paracare
+  Hi guys. I'm Andres Paracare
 </h1>
